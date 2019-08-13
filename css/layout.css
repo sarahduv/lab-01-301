@@ -1,0 +1,110 @@
+body {
+  width: 480px;
+}
+
+div {
+  float: left;
+}
+
+#one {
+  height: 75px;
+  width: 480px;
+}
+
+#two {
+  height: 150px;
+  width: 480px;
+}
+
+#three {
+  height: 125px;
+  width: 480px;
+}
+
+#four {
+  height: 125px;
+  width: 480px;
+}
+
+#five {
+  height: 250px;
+  width: 240px;
+}
+
+#six {
+  height: 250px;
+  width: 240px;
+}
+
+#seven {
+  height: 250px;
+  width: 240px;
+}
+
+#eight {
+  height: 250px;
+  width: 240px;
+}
+
+#nine {
+  height: 80px;
+  width: 480px;
+}
+
+
+@media (min-width: 768px){
+  body {
+    width: 960px;
+    margin: auto;
+  }
+
+  div {
+    float: left;
+  }
+
+  #one {
+    height: 100px;
+    width: 960px;
+  }
+
+  #two {
+    height: 600px;
+    width: 200px;
+  }
+
+  #three {
+    height: 200px;
+    width: 380px;
+  }
+
+  #four {
+    height: 200px;
+    width: 380px;
+  }
+
+  #five {
+    height: 250px;
+    width: 190px;
+  }
+
+  #six {
+    height: 250px;
+    width: 190px;
+  }
+
+  #seven {
+    height: 250px;
+    width: 190px;
+  }
+
+  #eight {
+    height: 250px;
+    width: 190px;
+  }
+
+  #nine {
+    height: 150px;
+    width: 760px;
+  }
+
+}
