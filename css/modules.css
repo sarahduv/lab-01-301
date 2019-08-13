@@ -1,0 +1,16 @@
+div{
+  background-color: lightslategray;
+  border: 1px black solid;
+}
+
+@media (min-width: 768px){
+  div {
+    background-color: rgb(91, 91, 155);
+    border: 1px greenyellow solid;
+  }
+}
+
+/* .changeColor {
+  background-color: rgb(91, 91, 155);
+  border: 1px greenyellow solid;
+} */
