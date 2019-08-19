@@ -10,6 +10,13 @@ div{
   }
 }
 
+@media (min-width: 1025px){
+  div {
+    background-color: rgb(129, 50, 14);
+    border: 1px rgb(255, 234, 47) solid;
+  }
+}
+
 /* .changeColor {
   background-color: rgb(91, 91, 155);
   border: 1px greenyellow solid;
